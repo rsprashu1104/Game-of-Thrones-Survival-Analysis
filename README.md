@@ -26,13 +26,6 @@ Although the R code is not available, the analysis was originally conducted usin
   - Log-rank test for group comparison
   - Cox Proportional Hazards regression
 
-## 📁 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `got_survival_analysis.pdf` | Final project report in PDF format |
-| `README.md` | Project overview and context |
-
 ## 🎯 Objective
 
 The goal was to identify key factors influencing survival in Game of Thrones, such as:
