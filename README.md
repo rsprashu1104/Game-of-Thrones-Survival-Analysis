@@ -4,7 +4,7 @@ This project presents a survival analysis of characters from the television seri
 
 ## 📄 Report
 
-- [`got_survival_analysis.pdf`](./got_survival_analysis.pdf) — Final PDF report including:
+- [`GAME of THRONES`](./GAME of THRONES.pdf) — Final PDF report including:
   - Kaplan-Meier survival curves
   - Cox Proportional Hazards model results
   - Forest plots of hazard ratios
